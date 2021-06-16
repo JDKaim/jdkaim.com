@@ -1,0 +1,9 @@
+---
+layout: page
+title: Guitar
+subtitle: My history with guitar
+---
+
+Talent show...
+Election video...
+Original stuff...

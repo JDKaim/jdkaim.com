@@ -22,6 +22,19 @@ url: "http://jdkaim.com"
 navbar-links:
   School:
     - Courseload: "courseload"
+    - Math: "math"
+    - Clubs: "clubs"
+    - Class Rep: "classrep"
+  Work:
+    - Quantcha: "quantcha"
+    - Volunteering: "volunteering"
+  Hobbies:
+    - Lacrosse: "lacrosse"
+    - Guitar: "guitar"
+  Fun:
+    - Travel: "travel"
+    - Coding Projects: "codingprojects"
+    - Retirement Letter: "retirementletter"
   About Me: "aboutme"
 
 

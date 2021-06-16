@@ -1,0 +1,9 @@
+---
+layout: page
+title: Clubs
+subtitle: Clubs I've joined in school
+---
+
+NHS...
+Math Club...
+Coding Club...
