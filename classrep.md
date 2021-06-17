@@ -4,7 +4,7 @@ title: Class Rep
 subtitle: My brief class representative history
 ---
 
-**My 8th Grade Rep Campaign**
+**My 8th Grade Representative Campaign**
 
 In the Spring of 2018, I decided to run for 8th Grade Class Representative at Redmond Middle School. This was my first time running for a class representative position, but I decided to run as a satirical nominee. My “position” was strictly opposed to 5th graders coming to the middle school as students while in 5th grade, although by the time they came to the middle school, they’d be 6th graders.
 	
