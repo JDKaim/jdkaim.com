@@ -10,6 +10,8 @@ Redmond Middle School is a public school for students in grades 6-8. Every year,
 
 My political platform was centered on a vow to keep 5th graders from coming to the middle school as 5th graders. In reality, by the time they came to the school, they would be in the 6th grade. My campaign messaging expressed my political platform, which lampooned national politics, by saying that, "5th graders are planning to come to your school," "I have a plan to stop them," and "Just say no." I built campaign materials around this messaging, including posters, which are shown below.
 
+![Posters](img/Posters.jpg)
+
 I delivered a speech in front of 300 fellow students and faculty, but one of the teachers interrupted my speech and urged the students not to vote for me.
 
 After the speech, many people congratulated me and thought that my campaign was funny, but they also indicated that they thought that they weren't allowed to vote for me. This was not the case, so I rushed back home to make a follow-up video and remind people that I was still in the running, and that they should vote for me.
